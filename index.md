@@ -8,12 +8,11 @@ Make calls directly from your Mac with one click.
 
 ## Features
 
-- ☎️ Quick dialing from menu bar
 - ⭐ Favorite contacts
-- ⌨️ Speed dial shortcuts
 - 📞 Direct iPhone integration
+- 📇 contact sync support
 - 🔍 Fast contact search
-- 🌙 Dark mode support
+- ☎  Dialer built-in
 
 ## Download
 
