@@ -1,30 +1,61 @@
 ---
 layout: default
 ---
-# Dialer for Mac
-Make calls directly from your Mac with one click.
+
+<div class="hero">
+  # Dialer for Mac
+  Make calls directly from your Mac with one click.
+  
+  [Download Latest Version](link-to-your-app){: .download-button}
+</div>
 
 ## Features
-{: .feature-list}
-- ⭐ Favorite contacts
-- 📞 Direct iPhone integration
-- 📇 Contact sync support
-- 🔍 Fast contact search
-- ☎  Dialer built-in
+{: .features-grid}
+<div class="feature-card">
+  <div class="emoji">⭐</div>
+  **Favorite Contacts**
+  Quick access to your most called contacts
+</div>
+
+<div class="feature-card">
+  <div class="emoji">📞</div>
+  **Direct iPhone Integration**
+  Seamless connection with your iPhone
+</div>
+
+<div class="feature-card">
+  <div class="emoji">📇</div>
+  **Contact Sync**
+  Auto-sync with your Mac contacts
+</div>
+
+<div class="feature-card">
+  <div class="emoji">🔍</div>
+  **Fast Search**
+  Find contacts instantly
+</div>
+
+<div class="feature-card">
+  <div class="emoji">☎</div>
+  **Built-in Dialer**
+  Easy to use number pad
+</div>
 
 ## Screenshots
-{: .screenshots-gallery}
-![Main Interface](/assets/images/screenshot-1.png){: .screenshot}
-![Favorites View](/assets/images/screenshot-2.png){: .screenshot}
-![Dialer View](/assets/images/screenshot-3.png){: .screenshot}
-![Settings](/assets/images/screenshot-4.png){: .screenshot}
-
-[Download Latest Version](link-to-your-app){: .download-button}
+<div class="screenshots-container">
+  <div class="screenshots-gallery">
+    ![Main Interface](/assets/images/screenshot-1.png)
+    ![Favorites View](/assets/images/screenshot-2.png)
+    ![Dialer View](/assets/images/screenshot-3.png)
+    ![Settings](/assets/images/screenshot-4.png)
+  </div>
+</div>
 
 ## About
 Dialer for Mac is a lightweight menu bar application that enables you to make phone calls directly from your Mac using iPhone Continuity. Designed with simplicity and efficiency in mind, it brings the power of your iPhone's calling capabilities right to your desktop.
 
 ## Requirements
+{: .requirements}
 - macOS 11.0 or later
 - iPhone with Continuity support
 - Access to macOS Contacts
