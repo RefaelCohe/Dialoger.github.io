@@ -61,10 +61,9 @@ Dialer for Mac is a lightweight menu bar application that enables you to make ph
 
 ## Connect With Us
 {: .social-links}
-[Twitter](https://twitter.com/your_handle)
-[Telegram](https://t.me/your_channel)
-[Facebook](https://facebook.com/your_page)
-[Bluesky](https://bsky.app/profile/your_profile)
+[Twitter](https://twitter.com/RefaelCohe)
+[Telegram](https://t.me/RefaelCohen)
+[Bluesky](https://bsky.app/profile/refco.bsky.social))
 
 <div class="disclaimer">
 **Important Notice**: Dialer for Mac is an independent application developed by a third party. This application is not affiliated with, authorized, maintained, sponsored or endorsed by Apple Inc. or any of its affiliates or subsidiaries. Apple, iPhone, and macOS are registered trademarks of Apple Inc.
