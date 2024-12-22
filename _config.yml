@@ -1,3 +1,11 @@
 title: Dialer for Mac
 description: Call your contacts directly from your Mac
 theme: jekyll-theme-minimal
+
+# Add custom JavaScript
+defaults:
+  - scope:
+      path: ""
+    values:
+      custom_js:
+        - /assets/js/gallery.js
