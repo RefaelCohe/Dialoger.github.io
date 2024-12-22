@@ -44,7 +44,6 @@ layout: default
 ## Screenshots
 <div class="screenshots-container">
   <div class="screenshots-gallery">
-    <img src="assets/images/screenshot-1.png" alt="Main Interface">
     <img src="assets/images/screenshot-2.png" alt="Favorites View">
     <img src="assets/images/screenshot-3.png" alt="Dialer View">
     <img src="assets/images/screenshot-4.png" alt="Settings">
