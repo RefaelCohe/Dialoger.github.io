@@ -12,6 +12,13 @@ Make calls directly from your Mac with one click.
 - 🔍 Fast contact search
 - ☎  Dialer built-in
 
+## Screenshots
+{: .screenshots-gallery}
+![Main Interface](/assets/images/screenshot-1.png){: .screenshot}
+![Favorites View](/assets/images/screenshot-2.png){: .screenshot}
+![Dialer View](/assets/images/screenshot-3.png){: .screenshot}
+![Settings](/assets/images/screenshot-4.png){: .screenshot}
+
 [Download Latest Version](link-to-your-app){: .download-button}
 
 ## About
