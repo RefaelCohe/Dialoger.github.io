@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecting...</title>
+    <script>
+        // בסיס ה-URL החדש
+        const newBaseURL = "https://dialerformac.wordpress.com";
+
+        // קבלת הנתיב המלא כולל query string אם קיים
+        const fullPath = window.location.pathname + window.location.search;
+
+        // הפניה לכתובת החדשה עם הנתיב המלא
+        window.location.href = newBaseURL + fullPath;
+    </script>
+</head>
+<body>
+    <p>Redirecting to the new site...</p>
+    <p>If you are not redirected automatically, <a id="redirectLink" href="#">click here</a>.</p>
+
+    <script>
+        // עדכון הקישור הידני למקרה שההפניה האוטומטית לא עובדת
+        document.getElementById("redirectLink").href = newBaseURL + fullPath;
+    </script>
+</body>
+</html>
