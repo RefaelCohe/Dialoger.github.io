@@ -5,13 +5,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Redirecting...</title>
     <script>
+        // קבל את הנתיב הנוכחי (path) מהכתובת של הדומיין
         const currentPath = window.location.pathname;
+
+        // בסיס ה-URL החדש (אתר ה-WordPress)
         const newBaseURL = "https://dialerformac.wordpress.com";
+
+        // הפניה לכתובת החדשה עם הנתיב הנוכחי
         window.location.href = newBaseURL + currentPath;
     </script>
 </head>
 <body>
     <p>Redirecting to the new site...</p>
-    <p>If you are not redirected automatically, <a href="https://dialerformac.wordpress.com">click here</a>.</p>
+    <p>If you are not redirected automatically, <a id="redirectLink" href="#">click here</a>.</p>
+
+    <script>
+        // עדכון הקישור הידני למקרה שההפניה האוטומטית לא עובדת
+        document.getElementById("redirectLink").href = newBaseURL + currentPath;
+    </script>
 </body>
 </html>
